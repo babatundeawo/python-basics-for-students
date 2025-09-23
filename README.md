@@ -38,7 +38,7 @@ This repo contains structured lessons, exercises, and projects designed to help 
 
 1. **Clone this repo**:
    ```bash
-   git clone https://github.com/babatundeawo/python-training.git
+   git clone https://github.com/babatundeawo/python-basics-for-students.git
    cd python-training
    ```
 
