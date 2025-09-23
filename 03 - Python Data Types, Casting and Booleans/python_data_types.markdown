@@ -1,4 +1,4 @@
-# **Instructional Guide for Grok**
+# **Instructional Guide**
 
 ## **Section 1 – Explanations**
 
