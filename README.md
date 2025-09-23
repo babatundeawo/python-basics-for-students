@@ -39,7 +39,7 @@ This repo contains structured lessons, exercises, and projects designed to help 
 1. **Clone this repo**:
    ```bash
    git clone https://github.com/babatundeawo/python-basics-for-students.git
-   cd python-training
+   cd python-basics-for-students
    ```
 
 2. Open the lessons in your favorite editor (**VS Code**, **PyCharm**, or even **IDLE**).
