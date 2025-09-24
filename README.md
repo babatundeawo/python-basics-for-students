@@ -79,6 +79,6 @@ By the end of this training, learners will be able to:
 *STEM Educator | Atmospheric Physicist | Web Developer | Researcher*  
 
 📩 Email: `babatundeawoyemi91@gmail.com`  
-🌍 GitHub: [babatundeawo](https://github.com/babatundeawo)
+🌍 GitHub: [babatundeawo](https://babatundeawo.github.io/)
 
 ---
